@@ -22,10 +22,6 @@
     "huatuo_min_version": [
         "0.0.3"
     ],
-    "huatuo_recommend_version": [
-        "0.0.3"
-    ],
-    "il2cpp_recommend_version": [
-        "2020.3.33-0.0.3"
-    ]
+    "huatuo_recommend_version": "0.0.3",
+    "il2cpp_recommend_version": "2020.3.33-0.0.3"
 }
